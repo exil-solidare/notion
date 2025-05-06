@@ -1,3 +1,3 @@
 [submodule "scrapper"]
 	path = scrapper
-	url = git@github.com:zakutnya/notion-scrapper.git
+	url = git@github.com:exil-solidare/notion-scrapper.git
